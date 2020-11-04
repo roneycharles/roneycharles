@@ -1,16 +1,22 @@
-### Hi there 👋
+## Bem vindo ao meu perfil ! 👋
 
-<!--
-**roneycharles/roneycharles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/roneycharles/)](https://www.linkedin.com/in/roneycharles/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:roneycharles@edu.unifor.br)](mailto:roneycharles@edu.unifor.br)
 
-Here are some ideas to get you started:
+### Sobre mim 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Roney Charles, sou desenvolvedor IoT e web full stack  ;
+
+Minhas tecnologias preferidas são ReactJS, Typescript e NodeJS;
+
+Estou em constante aprendizado e sempre me desafiando para aprender novas tecnologias;
+
+As tecnologias que estou estudando no momento é React Native.
+
+### Hobbies 🎮
+
+Pegar onda de bodyboard e praticar Jiu-jitsu;
+
+<hr>
+
+Qualquer coisa é só chamar no email ou linkedIn! 😃
